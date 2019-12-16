@@ -6,13 +6,7 @@ public class login {
 
         System.out.println("I added something from Intellij");
 
-        //Then I added something from GitHub
-
-
-        //Line 11 some changes fron Intellij
-
-        
-        //Line 11 changes from GitHub
+        //added to see branch
 
     }
 }
